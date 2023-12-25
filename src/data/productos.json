@@ -1,0 +1,402 @@
+[{
+    "id": 1,
+    "title": "Casco Mini Alonso",
+    "image": "https://tiendaf1mdsports.cl/wp-content/uploads/2023/04/Casco_Spark_Fernando_Alonso_2016_2-scaled.jpg",
+    "price": "2.700",
+    "description": "Casco Formula 1 Fernando Alonso Mclaren F1 2016 Spark 1:5",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 2,
+    "title": "Casco Mini Ricciardo",
+    "image": "https://tiendaf1mdsports.cl/wp-content/uploads/2023/05/Casco_Spark_Daniel_Ricciardo_2016_2-scaled.jpg",
+    "price": "3.000",
+    "description": "Casco Formula 1 Daniel Ricciardo RedBull F1 2016 Spark 1:5",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 3,
+    "title": "Casco Mini Leclerc",
+    "image": "https://tiendaf1mdsports.cl/wp-content/uploads/2023/11/Casco_Spark_Charles_Leclerc_2018_2.jpg",
+    "price": "2.500",
+    "description": "Casco Formula 1 Charles Leclerc Alfa Romeo 2018 Spark 1:5",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 4,
+    "title": "Llavero Alpha Tauri",
+    "image": "https://images.footballfanatics.com/alphatauri/scuderia-alphatauri-team-keyring_ss4_p-13306070+u-10c7dz12dm8lwu0waxv5+v-b001a5bbfea942d2bce5c9dd27d70d37.jpg?_hv=2&w=900",
+    "price": "440",
+    "description": "Llavero del equipo Scuderia Alpha Tauri",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 5,
+    "title": "Pulseras Pirelli",
+    "image": "https://images.footballfanatics.com/pirelli/pirelli-5pk-rubber-bracelets_ss5_p-14408023+pv-1+u-kwvtzsnxzfs7ixtamx3s+v-kftgp6ivalsxhq33yd9z.jpg?_hv=2&w=900",
+    "price": "500",
+    "description": "Pulseras de caucho Pirelli, paquete de 5",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 6,
+    "title": "Collar Mercedes",
+    "image": "https://images.footballfanatics.com/mercedes-amg-petronas-f1-team/mercedes-amg-petronas-f1-lanyard_ss4_p-13300599+u-7zgksmzow3n0qaw8o32n+v-a678a4f3b1bd4d939f0733103ed2f7aa.jpg?_hv=2&w=900",
+    "price": "750",
+    "description": "Cordón Mercedes AMG Petronas F1",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 7,
+    "title": "Medias Red Bull",
+    "image": "https://images.footballfanatics.com/red-bull-racing/oracle-red-bull-racing-team-socks_ss4_p-13335239+u-16nsoqifqu65hkjne8rm+v-ef4c7138e210477aa48c9eb53dcd6ec7.jpg?_hv=2&w=900",
+    "price": "1.200",
+    "description": "Calcetines del equipo Oracle Red Bull Racing",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 8,
+    "title": "Paraguas Ferrari",
+    "image": "https://images.footballfanatics.com/scuderia-ferrari/scuderia-ferrari-compact-umbrella-black_ss4_p-12046171+u-1ihbty8jl7ihhb7dj2fo+v-83d1d709086b41d3864c07aea0428026.jpg?_hv=2&w=900",
+    "price": "4.500",
+    "description": "Paraguas Scuderia Ferrari Compact - Negro",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 9,
+    "title": "Riñonera Ferrari",
+    "image": "https://images.footballfanatics.com/scuderia-ferrari/scuderia-ferrari-race-waist-bag-by-puma_ss5_p-13350188+pv-1+u-0yjd3xptrhvzjomymwmo+v-m5fkw2hcksj4zk3fmwej.jpg?_hv=2&w=900",
+    "price": "6.500",
+    "description": "Riñonera Scuderia Ferrari Race de Puma",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 10,
+    "title": "Mochila Alpine",
+    "image": "https://images.footballfanatics.com/alpine/bwt-alpine-f1-team-backpack_ss4_p-13356055+u-sd6n1fnvzq7f496lgkqg+v-bd0388ff8b934431a83add57195c28d0.jpg?_hv=2&w=900",
+    "price": "15.000",
+    "description": "Mochila del equipo BWT Alpine F1",
+    "categoria": "Accesorios",
+    "stock": 11
+  }, {
+    "id": 11,
+    "title": "Gorra Ayrton Senna",
+    "image": "https://edasi.com/cdn/shop/products/701218115001000-1_033bcfeb-505d-450f-9578-652498e2627a.jpg?v=1649346490",
+    "price": "11.000",
+    "description": "Ayrton Senna Gorra Logo",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 12,
+    "title": "Gorra Pirello 1st",
+    "image": "https://edasi.com/cdn/shop/products/pirelli-150th-anniversary-podium-cap2.png?v=1668614016",
+    "price": "13.000",
+    "description": "Gorra Pirelli Oficial Podio F1",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 13,
+    "title": "Gorra Alfa Romeo",
+    "image": "https://edasi.com/cdn/shop/files/U905114443-1.jpg?v=1682464972",
+    "price": "8.000",
+    "description": "Alfa Romeo Gorra Zhou Guanyu Oficial 2023",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 14,
+    "title": "Gorra Alpha Tauri",
+    "image": "https://edasi.com/cdn/shop/files/AlphaTauriGorraOficialAzulMarino2023.png?v=1695140002",
+    "price": "8.500",
+    "description": "Alpha Tauri Gorra Oficial Azul Marino 2023",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 15,
+    "title": "Gorra Mercedes",
+    "image": "https://edasi.com/cdn/shop/files/Cap1.jpg?v=1698176727",
+    "price": "13.000",
+    "description": "Mercedes AMG Petronas Gorra George Russell GP Austin 2023",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 16,
+    "title": "Gorra Alpine",
+    "image": "https://edasi.com/cdn/shop/files/AlpineGorraGPMexico2023.png?v=1697202789",
+    "price": "9.000",
+    "description": "Alpine Gorra GP México 2023",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 17,
+    "title": "Gorra Aston Martin",
+    "image": "https://edasi.com/cdn/shop/files/AMA23HEA31-Limited-Edition-Flat-Peak-Cap-Brazil_3_13_11zon_1800x1800_ad25f32a-645a-44b6-98e6-5a3d9d77e09c.webp?v=1697054100",
+    "price": "10.700",
+    "description": "Aston Martin Gorra Fernando Alonso GP Brasil 2023",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 18,
+    "title": "Gorra Red Bull",
+    "image": "https://edasi.com/cdn/shop/files/60491458_9FORTY_DRIVER_RBULL_BLUE_3QR_1512x_adcf8678-9ae3-439e-aeef-1e2b38f0db88.webp?v=1698781354",
+    "price": "11.000",
+    "description": "Red Bull Racing Gorra Checo Pérez GP Las Vegas 2023",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 19,
+    "title": "Gorra McLaren",
+    "image": "https://edasi.com/cdn/shop/files/60493803_9FIFTY_LASVEGAS_MCLAREN_ORANGE_3QL_1296x_0d6dc5d7-4e41-4373-aa80-be00f1262809.webp?v=1699635778",
+    "price": "10.000",
+    "description": "McLaren Gorra GP Las Vegas 2023",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 20,
+    "title": "Gorra Ferrari",
+    "image": "https://edasi.com/cdn/shop/files/701227713001_PP_1_FERRARI_WHITE.png?v=1702688107",
+    "price": "12.000",
+    "description": "Ferrari Gorra Carlos Sainz GP Monza 2023",
+    "categoria": "Gorras",
+    "stock": 11
+  }, {
+    "id": 21,
+    "title": "Campera Red Bull",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/campera-adelante-copia-nuevo-modelo1-caa86e7ba455e4162616630966808763-1024-1024.webp",
+    "price": "50.000",
+    "description": "Campera Friza Invisible Red Bull F1 2012 ",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 22,
+    "title": "Campera Alpine",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/campera-adelante31-0c04a70dc2283805df16667148027745-1024-1024.webp",
+    "price": "53.550",
+    "description": "Campera Friza Invisible/Simple Alpine F1 2022 TEAM",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 23,
+    "title": "Campera William 1992",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/campera-adelante-nuevo-azul-francia-mansell1-894cd69d19c689fad616832081917021-1024-1024.webp",
+    "price": "56.000",
+    "description": "Campera Friza Invisible Nigel Mansell F1 Williams FW14 1992 Buzo Antiflama Retro",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 24,
+    "title": "Buzo Mercedes Blando",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/buzo-adelante-mercedes-2023-blanco1-eb002ced22f636252516808064463570-1024-1024.webp",
+    "price": "52.000",
+    "description": "Buzo Canguro Mercedes F1 2023",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 25,
+    "title": "Buzo Mercedes Negro",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/canguro-negro-adelante21-c2cf1071b99c216a1116582621904332-1024-1024.webp",
+    "price": "52.000",
+    "description": "Buzo Canguro Mercedes F1 2022",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 26,
+    "title": "Campera Ferrari 1998",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/campera-adelante-schumacher-19981-fd63cada9a4c28dbcf16881456516808-1024-1024.webp",
+    "price": "54.000",
+    "description": "Campera Friza Invisible Michael Schumacher Ferrari F1 1998 Buzo Antiflama Retro",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 27,
+    "title": "Buzo Aston Martin",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/buzo-adelante-aston-martin-20231-3c94834ae8ca35808e16832228000354-1024-1024.webp",
+    "price": "54.500",
+    "description": "Buzo Aston Martin F1 2023 TEAM Alonso",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 28,
+    "title": "Campera Red Bull",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/campera-adelante-azul-marino-red-bull-202321-489d3eddcfa733914316832251654918-1024-1024.webp",
+    "price": "57.000",
+    "description": "Campera Friza Invisible/Simple Red Bull F1 2023 TEAM Verstappen Pérez",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 29,
+    "title": "Campera Ferrari 2004",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/campera-adelante-copia-nuevo-modelo11-dbd2d268f633a2e3c616669796028125-1024-1024.webp",
+    "price": "52.620",
+    "description": "Campera Friza Invisible Michael Schumacher Ferrari F1 2004 Replica Retro",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 30,
+    "title": "Campera McLaren",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/campera-naranja-mclaren-adelante1-1715653018cbbb7ea816832915782524-1024-1024.webp",
+    "price": "50.000",
+    "description": "Campera Friza Invisible/Simple McLaren F1 2023 TEAM Norris Piastri",
+    "categoria": "Abrigos",
+    "stock": 11
+  }, {
+    "id": 31,
+    "title": "Chomba Aston Martion",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelante-aston-martin-202311-2bdd695adf17d4fd0216802700329732-1024-1024.webp",
+    "price": "27.500",
+    "description": "Chomba Aston Martin F1 2023 TEAM Alonso Stroll",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 32,
+    "title": "Chomba Alpine Azul Marino",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelantev3alpineazul1-3761b68ec7c65bba2016686118274265-1024-1024.webp",
+    "price": "28.000",
+    "description": "Chomba Alpine F1 2022 TEAM Alonso Ocon",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 33,
+    "title": "Chomba West Blanca",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelantev3hakkinen1-dc446e627af98a3bbb16686182350964-1024-1024.webp",
+    "price": "29.000",
+    "description": "Chomba F1 Mclaren Mercedes MP4/13 Häkkinen Coulthard 1998 Replica EXACTA Retro",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 34,
+    "title": "Chomba Mercedes Negra",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelante-mercedes-2023-negra1-6586258bcbc8fcd35f16796627372512-1024-1024.webp",
+    "price": "28.500",
+    "description": "Chomba Mercedes F1 2023 TEAM Hamilton Russell",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 35,
+    "title": "Chomba Mercedes Blanca",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelantev3blanca1-4f2b932aa3eec7a07f16686104960427-1024-1024.webp",
+    "price": "27.500",
+    "description": "Chomba Mercedes F1 2022 TEAM Hamilton Russell",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 36,
+    "title": "Chomba Ferrari 2022",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelantev3ferrari1-014842cc49f84a9c1416686112191940-1024-1024.webp",
+    "price": "26.000",
+    "description": "Chomba Ferrari F1 2022 TEAM Leclerc Sainz",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 37,
+    "title": "Chomba Ferrari",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelantev32004msc1-8606c5cf06fd8e33be16686164607681-1024-1024.webp",
+    "price": "29.000",
+    "description": "Chomba Michael Schumacher FERRARI 2004 ",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 38,
+    "title": "Chomba Ferrari Ayrton Senna",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelantev3senna881-ebfe746d8a1d54bf1a16686198136335-1024-1024.webp",
+    "price": "30.000",
+    "description": "Chomba Ayrton Senna F1 McLaren Honda MP4/6 1991 ",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 39,
+    "title": "Chomba Red Bull 2023",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelante-verstappen-20231-98d136ee8d8c27620e16796603549380-1024-1024.webp",
+    "price": "29.000",
+    "description": "Chomba Red Bull F1 2023",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 40,
+    "title": "Chomba Red Bull 2022",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/chomba-adelantev3rb1-88e464f7d378c7034716686105695917-1024-1024.webp",
+    "price": "27.000",
+    "description": "Chomba Red Bull F1 2022 TEAM",
+    "categoria": "Chombas",
+    "stock": 11
+  }, {
+    "id": 41,
+    "title": "Remera Red Bull 2023",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelante-red-bull-2023-comun-azul-marino1-c42d157cf4f9930e8316843258687328-1024-1024.webp",
+    "price": "22.000",
+    "description": "Remera 100% Algodón Red Bull F1 2023",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 42,
+    "title": "Remera Red Bull 2022",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelanteredbullazulmarino1-6e6576700862fc8a5d16711230745916-1024-1024.webp",
+    "price": "18.000",
+    "description": "Remera 100% Algodón Red Bull F1 2022",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 43,
+    "title": "Remera Ferrari",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelanteferrariroja1-b2317c4afc7a5a67bd16711230649276-1024-1024.webp",
+    "price": "21.000",
+    "description": "Remera 100% Algodón Ferrari F1 2023",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 44,
+    "title": "Remera Mercedes Blanca",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelante-mercedes-2023-blanco1-df0f7bac30d964de4416843256481653-1024-1024.webp",
+    "price": "21.500",
+    "description": "Remera 100% Algodón Mercedes F1 2023 ",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 45,
+    "title": "Remera Alpine",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelantealpineazulfrancia1-b3c7e2e362dfc6d96616711230653198-1024-1024.webp",
+    "price": "19.000",
+    "description": "Remera 100% Algodón Alpine F1 2022 TEAM Alonso Ocon",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 46,
+    "title": "Remera McLaren",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelante-mclaren-20231-2cca401b05fa1eeb0416843260702328-1024-1024.webp",
+    "price": "20.500",
+    "description": "Remera 100% Algodón McLaren F1 2023",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 47,
+    "title": "Remera Aston Martin",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelante-am-new-color-66933ed74f46ad599c16971134205596-1024-1024.webp",
+    "price": "17.500",
+    "description": "Remera 100% Algodón Aston Martin F1",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 48,
+    "title": "Remera Mercedes Negra",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelante-mercedes-2023-negro1-df05df7d443c75168816843256482207-1024-1024.webp",
+    "price": "21.500",
+    "description": "Remera 100% Algodón Mercedes F1 2023",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 49,
+    "title": "Remera Alpine Negra",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelantealpinenegroo1-2df304bbf4f925720d16711230651730-1024-1024.webp",
+    "price": "19.000",
+    "description": "Remera 100% Algodón Alpine F1 2022",
+    "categoria": "Remeras",
+    "stock": 11
+  }, {
+    "id": 50,
+    "title": "Remera Ferrari Negra",
+    "image": "https://acdn.mitiendanube.com/stores/002/207/214/products/remera-adelanteferrarinegra1-c0c1947121bcbd9b7816711230647081-1024-1024.webp",
+    "price": "21.000",
+    "description": "Remera 100% Algodón Ferrari F1 2023",
+    "categoria": "Remeras",
+    "stock": 11
+  }]
+  
