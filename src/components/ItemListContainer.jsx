@@ -1,43 +1,40 @@
 import { useEffect, useState } from "react";
 import ItemList from "./ItemList";
 import { useParams } from "react-router-dom";
-import { collection, getDoc, query,  where} from "firebase/firestore";
+import { collection, getDocs, query, where } from "firebase/firestore";
 import { db } from "../firebase/config";
 
 const ItemListContainer = () => {
+  const [productos, setProductos] = useState([]);
+  const [titulo, setTitulo] = useState("productos");
+  const categoria = useParams().categoria;
+  console.log(categoria);
 
-     const [productos, setProductos] = useState ([]);
+  useEffect(() => {
+    const productosRef = collection(db, "productos");
 
-     const [titulo, setTitulo] = useState ("productos");
+    const q = categoria
+      ? query(productosRef, where("categoria", "==", categoria))
+      : productosRef;
 
-     const categoria = useParams().categoria;
-     console.log(categoria);
-     
-
-    useEffect(() => {
-
-      const productosRef = collection(db, "productos");
-
-      const q = categoria ? query(productosRef, where("categoria", "==", categoria)) : productosRef;
-
-      getDoc(q)
-      .then((resp) => {
-       
-
+    getDocs(q)
+      .then((querySnapshot) => {
         setProductos(
-          resp.docs.map((doc) => {
-            return{...doc.data(), id: doc.id}
+          querySnapshot.docs.map((doc) => {
+            return { ...doc.data(), id: doc.id };
           })
-        )
+        );
       })
+      .catch((error) => {
+        console.error("Error getting documents: ", error);
+      });
+  }, [categoria]);
 
-       }, [categoria])
-    
   return (
     <div>
-        <ItemList productos={productos} titulo={titulo} />
+      <ItemList productos={productos} titulo={titulo} />
     </div>
-  )
-}
+  );
+};
 
-export default ItemListContainer
+export default ItemListContainer;
