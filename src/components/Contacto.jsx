@@ -1,6 +1,6 @@
 import { useForm } from "react-hook-form";
 
-export const Contacto = () => {
+const Contacto = () => {
 
   const {register, handleSubmit} = useForm();
 
