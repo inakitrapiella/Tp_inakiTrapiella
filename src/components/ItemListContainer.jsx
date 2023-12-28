@@ -6,7 +6,7 @@ import { db } from "../firebase/config";
 
 const ItemListContainer = () => {
   const [productos, setProductos] = useState([]);
-  const [titulo, setTitulo] = useState("productos");
+  const [titulo] = useState("productos");
   const categoria = useParams().categoria;
   console.log(categoria);
 
