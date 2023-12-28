@@ -20,7 +20,7 @@ const Nosotros = () => {
 
 
   return (
-    <div className='container'>
+    <div className='conti'>
         <h1 className='main-title'>Nosotros</h1>
           <p>este es el componente "nosotros"</p>
     </div>
